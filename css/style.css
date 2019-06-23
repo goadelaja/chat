@@ -1,0 +1,24 @@
+body{
+	background-color:#ffcc66;
+}
+
+#cont{
+	background-color: white;
+	padding: 170px;
+}
+
+#cont_1{
+	background-color: white;
+	padding: 50px;
+	margin-top:20px;
+}
+
+#text_area{
+	width: 200mm;
+	height: 40mm;
+}
+
+#button{
+	height:2cm;
+	width: 2cm;
+}
